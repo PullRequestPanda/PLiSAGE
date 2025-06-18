@@ -4,7 +4,7 @@
 **PLiSAGE** is an open-source framework for predicting protein-ligand interactions by integrating multimodal surface features and geometric structure encoding. This repository provides the complete implementation of the model and examples for downstream tasks.  
 ## Model Architecture
 
-![Model Architecture](images/model.png)
+![Model Architecture](image/model.png)
 
 
 ## Table of Contents  
