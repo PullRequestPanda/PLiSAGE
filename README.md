@@ -2,6 +2,9 @@
 # PLiSAGE: A Multimodal Approach for Predicting Protein-Ligand Interactions via Surface and Geometry Embeddings  
 
 **PLiSAGE** is an open-source framework for predicting protein-ligand interactions by integrating multimodal surface features and geometric structure encoding. This repository provides the complete implementation of the model and examples for downstream tasks.  
+## Model Architecture
+
+![Model Architecture](images/model.png)
 
 
 ## Table of Contents  
